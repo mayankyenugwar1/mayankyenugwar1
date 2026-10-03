@@ -23,36 +23,17 @@
   </tr>
 </table>
 
-<br/>
-
-<div align="center">
-
-> *"SOME PEOPLE SEE DARKNESS. I SEE A PLAYGROUND FOR IDEAS."*
-
-</div>
+<p align="center">
+  <sub><i>IDEAS LOOK DIFFERENT AT NIGHT.</i></sub>
+</p>
 
 <br/>
 
 ## 01 // ABOUT ME
 
-<table width="100%">
-  <tr>
-    <td width="62%" valign="top">
-      <p>
-        Engineering student exploring <b>artificial intelligence</b>, <b>software development</b>, and <b>creative technology</b>.
-      </p>
-      <p>
-        Currently building AI systems, software products, and interactive experiences — from productivity tools to immersive digital environments.
-      </p>
-      <p>
-        <sub><i>Operating with disciplined systems engineering, nocturnal architecture, and tactile digital craft.</i></sub>
-      </p>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="assets/about-gotham.jpg" alt="Gotham Rooftop Skyline" width="100%" style="border-radius: 6px; border: 1px solid #1e293b;" />
-    </td>
-  </tr>
-</table>
+Engineering student exploring **artificial intelligence**, **software development**, and **creative technology**.
+
+Currently building AI systems, software products, and interactive experiences — from productivity tools to immersive digital environments.
 
 <br/>
 
@@ -61,22 +42,25 @@
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h4>⚡ <a href="https://github.com/mayankyenugwar1/TITAN">TITAN V1.0</a></h4>
-      <p><b>Autonomous Productivity OS</b></p>
-      <p>Tactical workspace unifying Mission Control, Chrono Matrix, Knowledge OS, and an AI Commander Agent.</p>
-      <p><a href="https://github.com/mayankyenugwar1/TITAN"><code>View Repo →</code></a></p>
+      <sub><code>01</code></sub>
+      <h3><a href="https://github.com/mayankyenugwar1/TITAN">TITAN V1.0</a></h3>
+      <p><sub><b>AUTONOMOUS PRODUCTIVITY OS</b></sub></p>
+      <p>Tactical workspace unifying Mission Control, Chrono Matrix, Knowledge OS, and an AI Commander Agent into one command center.</p>
+      <p><a href="https://github.com/mayankyenugwar1/TITAN"><b>VIEW REPOSITORY →</b></a></p>
     </td>
     <td width="33%" valign="top">
-      <h4>🌌 <a href="https://github.com/mayankyenugwar1/EXHALE">EXHALE</a></h4>
-      <p><b>Cosmic Mindfulness Experience</b></p>
-      <p>Deep-space mindfulness platform creating psychological decompression through cosmic visual pacing.</p>
-      <p><a href="https://github.com/mayankyenugwar1/EXHALE"><code>View Repo →</code></a></p>
+      <sub><code>02</code></sub>
+      <h3><a href="https://github.com/mayankyenugwar1/EXHALE">EXHALE</a></h3>
+      <p><sub><b>COSMIC MINDFULNESS EXPERIENCE</b></sub></p>
+      <p>Deep-space mindfulness platform creating psychological decompression through reflective writing and cosmic visual pacing.</p>
+      <p><a href="https://github.com/mayankyenugwar1/EXHALE"><b>VIEW REPOSITORY →</b></a></p>
     </td>
     <td width="34%" valign="top">
-      <h4>🕹️ <a href="https://github.com/mayankyenugwar1/Paranoia">PARANOIA</a></h4>
-      <p><b>Interactive Horror / Puzzle Game</b></p>
-      <p>Responsive gaming environment exploring state orchestration, atmospheric feedback, and game mechanics.</p>
-      <p><a href="https://github.com/mayankyenugwar1/Paranoia"><code>View Repo →</code></a></p>
+      <sub><code>03</code></sub>
+      <h3><a href="https://github.com/mayankyenugwar1/Paranoia">PARANOIA</a></h3>
+      <p><sub><b>INTERACTIVE HORROR / PUZZLE GAME</b></sub></p>
+      <p>Responsive gaming environment exploring state orchestration, atmospheric feedback, and real-time game mechanics.</p>
+      <p><a href="https://github.com/mayankyenugwar1/Paranoia"><b>VIEW REPOSITORY →</b></a></p>
     </td>
   </tr>
 </table>
@@ -88,8 +72,9 @@
 <table width="100%">
   <tr>
     <td valign="top">
-      <h3>01 // TITAN V1.0</h3>
-      <p><code>AUTONOMOUS PRODUCTIVITY OS</code></p>
+      <sub><code>PROJECT 01</code></sub>
+      <h3>TITAN V1.0</h3>
+      <p><sub><b>AUTONOMOUS PRODUCTIVITY OS</b></sub></p>
       <p>
         A unified tactical workspace connecting Mission Control, Chrono Matrix, Knowledge OS (Second Brain), Projects &amp; OKRs, and an autonomous AI Commander Agent into one central command interface. Designed for disciplined execution and high cognitive throughput.
       </p>
@@ -108,9 +93,10 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h3>02 // EXHALE</h3>
-      <p><code>COSMIC MINDFULNESS EXPERIENCE</code></p>
+    <td width="58%" valign="top">
+      <sub><code>PROJECT 02</code></sub>
+      <h3>EXHALE</h3>
+      <p><sub><b>COSMIC MINDFULNESS EXPERIENCE</b></sub></p>
       <p>
         A minimalist cosmic web experience creating psychological distance from overwhelming thoughts through reflective writing, guided breathing rhythms, and contemplative deep-space visuals.
       </p>
@@ -122,7 +108,7 @@
         <a href="https://exhale-cosmic.netlify.app"><b>LIVE EXPERIENCE ↗</b></a>
       </p>
     </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="42%" align="center" valign="middle">
       <a href="https://exhale-cosmic.netlify.app">
         <img src="assets/exhale-preview.jpg" alt="EXHALE Cosmic Mindfulness Portal" width="100%" style="border-radius: 6px; border: 1px solid #1e293b;" />
       </a>
@@ -137,38 +123,30 @@
 <table width="100%">
   <tr>
     <td width="25%" valign="top">
-      <h4>LANGUAGES</h4>
-      <p>
-        • <code>TypeScript</code><br/>
-        • <code>JavaScript</code><br/>
-        • <code>Python</code><br/>
-        • <code>C++</code>
-      </p>
+      <sub><b>LANGUAGES</b></sub><br/><br/>
+      <code>TypeScript</code><br/>
+      <code>JavaScript</code><br/>
+      <code>Python</code><br/>
+      <code>C++</code>
     </td>
     <td width="25%" valign="top">
-      <h4>FRONTEND</h4>
-      <p>
-        • <code>React</code><br/>
-        • <code>Vite</code><br/>
-        • <code>Tailwind CSS</code><br/>
-        • <code>Framer Motion</code>
-      </p>
+      <sub><b>FRONTEND</b></sub><br/><br/>
+      <code>React</code><br/>
+      <code>Vite</code><br/>
+      <code>Tailwind CSS</code><br/>
+      <code>Framer Motion</code>
     </td>
     <td width="25%" valign="top">
-      <h4>BACKEND / DATA</h4>
-      <p>
-        • <code>Supabase</code><br/>
-        • <code>FastAPI</code>
-      </p>
+      <sub><b>BACKEND / DATA</b></sub><br/><br/>
+      <code>Supabase</code><br/>
+      <code>FastAPI</code>
     </td>
     <td width="25%" valign="top">
-      <h4>TOOLS</h4>
-      <p>
-        • <code>Git</code><br/>
-        • <code>GitHub</code><br/>
-        • <code>Netlify</code><br/>
-        • <code>Capacitor</code>
-      </p>
+      <sub><b>TOOLS</b></sub><br/><br/>
+      <code>Git</code><br/>
+      <code>GitHub</code><br/>
+      <code>Netlify</code><br/>
+      <code>Capacitor</code>
     </td>
   </tr>
 </table>
@@ -177,10 +155,9 @@
 
 ## 05 // GITHUB ACTIVITY
 
-> **BUILDING IN PUBLIC.**  
-> **LEARNING BY SHIPPING.**
+<sub><b>BUILDING IN PUBLIC. &nbsp;•&nbsp; LEARNING BY SHIPPING.</b></sub>
 
-<br/>
+<br/><br/>
 
 <div align="center">
   <img src="https://ghchart.rshah.org/38bdf8/mayankyenugwar1" alt="Mayank Yenugwar's Contribution Graph" width="100%" style="border-radius: 6px; border: 1px solid #1e293b;" />
@@ -203,29 +180,17 @@
   </tr>
 </table>
 
-<br/>
-
-<div align="center">
-  <p><sub><i>Open to collaborating on high-impact software, autonomous agent architectures, and creative technology.</i></sub></p>
-</div>
-
-<br/>
-
----
-
-<br/>
+<p align="center">
+  <sub><i>Open to collaborating on high-impact software, autonomous agent architectures, and creative technology.</i></sub>
+</p>
 
 <div align="center">
 
   <img src="assets/gotham-skyline-footer.png" alt="Gotham Skyline Silhouette" width="100%" />
 
-  <br/><br/>
-
   <p>
-    <b>GOOD CODE.</b><br/>
-    <b>BRIGHTER TOMORROWS.</b>
+    <sub><b>GOOD CODE.</b> &nbsp;•&nbsp; <b>BRIGHTER TOMORROWS.</b></sub><br/>
+    <sub>— MAYANK YENUGWAR</sub>
   </p>
-
-  <sub>— MAYANK YENUGWAR</sub>
 
 </div>
