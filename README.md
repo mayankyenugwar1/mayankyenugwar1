@@ -20,10 +20,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="assets/gotham-divider.gif" width="100%" alt="Divider" />
-</p>
-
 ## 01 // ABOUT ME
 
 Engineering student exploring **artificial intelligence**, **software development**, and **creative technology**.
@@ -32,10 +28,6 @@ Currently building AI systems, software products, and interactive experiences �
 
 <br/>
 
-<p align="center">
-  <img src="assets/gotham-divider.gif" width="100%" alt="Divider" />
-</p>
-
 ## 02 // CURRENTLY BUILDING
 
 * **[TITAN V1.0](https://github.com/mayankyenugwar1/TITAN)** — Architecting an autonomous productivity operating system connecting Mission Control, Chrono Matrix, Knowledge OS (Second Brain), Projects &amp; OKRs, and an AI Commander Agent into one command center.
@@ -43,10 +35,6 @@ Currently building AI systems, software products, and interactive experiences �
 * **[Paranoia](https://github.com/mayankyenugwar1/Paranoia)** — Developing an interactive entertainment platform exploring real-time game mechanics and state orchestration.
 
 <br/>
-
-<p align="center">
-  <img src="assets/gotham-divider.gif" width="100%" alt="Divider" />
-</p>
 
 ## 03 // FEATURED PROJECTS
 
@@ -83,10 +71,6 @@ An interactive gaming environment exploring responsive audio-visual feedback and
 
 <br/>
 
-<p align="center">
-  <img src="assets/gotham-divider.gif" width="100%" alt="Divider" />
-</p>
-
 ## 04 // TECH STACK
 
 **Languages**  
@@ -103,10 +87,6 @@ An interactive gaming environment exploring responsive audio-visual feedback and
 
 <br/>
 
-<p align="center">
-  <img src="assets/gotham-divider.gif" width="100%" alt="Divider" />
-</p>
-
 ## 05 // GITHUB ACTIVITY
 
 Building in public.  
@@ -120,10 +100,6 @@ Learning by shipping.
 
 <br/>
 
-<p align="center">
-  <img src="assets/gotham-divider.gif" width="100%" alt="Divider" />
-</p>
-
 ## 06 // CONTACT
 
 Feel free to connect, collaborate, or discuss projects:
@@ -133,16 +109,11 @@ Feel free to connect, collaborate, or discuss projects:
 
 <br/>
 
+---
+
 <div align="center">
-
-  <img src="assets/gotham-footer.gif" alt="Gothic Skyline Moon & Rain Silhouette" width="100%" style="border-radius: 6px; border: 1px solid #1e293b;" />
-
-  <br/><br/>
-
   <p>
     <i>"Where ideas meet the night."</i>
   </p>
-
   <sub>© 2026 Mayank Yenugwar • Built in the dark</sub>
-
 </div>
