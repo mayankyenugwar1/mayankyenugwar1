@@ -1,0 +1,53 @@
+<svg width="840" height="150" viewBox="0 0 840 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050508" />
+      <stop offset="50%" stop-color="#090a0f" />
+      <stop offset="100%" stop-color="#050508" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#CBD5E1" />
+    </linearGradient>
+    <linearGradient id="crimsonLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#27272A" stop-opacity="0" />
+      <stop offset="25%" stop-color="#27272A" />
+      <stop offset="50%" stop-color="#E11D48" />
+      <stop offset="75%" stop-color="#27272A" />
+      <stop offset="100%" stop-color="#27272A" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#E11D48" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#E11D48" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="840" height="150" fill="url(#bgGrad)" rx="8" />
+  <rect width="840" height="150" fill="url(#centerGlow)" rx="8" />
+  <rect x="0.5" y="0.5" width="839" height="149" rx="7.5" stroke="#27272A" stroke-opacity="0.8" />
+
+  <!-- Corner Reticles -->
+  <path d="M 16 26 L 16 16 L 26 16" stroke="#71717A" stroke-width="1.5" stroke-linecap="square" />
+  <path d="M 824 26 L 824 16 L 814 16" stroke="#71717A" stroke-width="1.5" stroke-linecap="square" />
+  <path d="M 16 124 L 16 134 L 26 134" stroke="#71717A" stroke-width="1.5" stroke-linecap="square" />
+  <path d="M 824 124 L 824 134 L 814 134" stroke="#71717A" stroke-width="1.5" stroke-linecap="square" />
+
+  <!-- Top Telemetry Line -->
+  <text x="36" y="24" fill="#71717A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Courier New', monospace" font-size="9" letter-spacing="2">SYS.ID // 0x234760703</text>
+  <text x="804" y="24" text-anchor="end" fill="#E11D48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Courier New', monospace" font-size="9" letter-spacing="2">STATUS // ONLINE</text>
+
+  <!-- Main Name Header -->
+  <text x="420" y="66" text-anchor="middle" fill="url(#textGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="30" letter-spacing="9">MAYANK YENU GWAR</text>
+
+  <!-- Crimson Divider Accent -->
+  <line x1="120" y1="80" x2="720" y2="80" stroke="url(#crimsonLine)" stroke-width="1.5" />
+  <circle cx="420" cy="80" r="3" fill="#E11D48" />
+  <circle cx="420" cy="80" r="1.5" fill="#FFFFFF" />
+
+  <!-- Identity Line -->
+  <text x="420" y="103" text-anchor="middle" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="500" font-size="12" letter-spacing="4">ENGINEERING STUDENT  <tspan fill="#E11D48">//</tspan>  AI &amp; SOFTWARE DEVELOPMENT</text>
+
+  <!-- Tagline -->
+  <text x="420" y="127" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="400" font-size="11.5" letter-spacing="1.5" font-style="italic">Navigating the event horizon between complex intelligent systems and minimalist design.</text>
+</svg>
