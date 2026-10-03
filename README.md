@@ -146,33 +146,38 @@ Currently building AI systems, software products, and interactive experiences �
 
 ## 05 // GITHUB ACTIVITY
 
-<sub>`BUILDING IN PUBLIC. • LEARNING BY SHIPPING.`</sub>
+<sub><b>BUILDING IN PUBLIC. &nbsp;•&nbsp; LEARNING BY SHIPPING.</b></sub>
 
 <br/><br/>
 
 <div align="center">
-  <img src="assets/github-activity.gif" alt="GitHub Contribution Activity" width="100%" style="border-radius: 6px; border: 1px solid #1e293b;" />
+  <img src="assets/github-activity.gif" alt="GitHub Contribution Activity" width="100%" style="border-radius: 8px; border: 1px solid #1e293b;" />
 </div>
 
 <br/>
 
 ## 06 // CONTACT
 
-<div align="center">
-  <a href="https://github.com/mayankyenugwar1">
-    <img src="assets/contact-github.gif" alt="GitHub: @mayankyenugwar1" width="320" style="border-radius: 6px;" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mayankyenugwar1@gmail.com">
-    <img src="assets/contact-email.gif" alt="Email: mayankyenugwar1@gmail.com" width="320" style="border-radius: 6px;" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/mayankyenugwar1">
+        <img src="assets/contact-github.gif" alt="GitHub: @mayankyenugwar1" width="100%" style="max-width: 350px; border-radius: 8px;" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="mailto:mayankyenugwar1@gmail.com">
+        <img src="assets/contact-email.gif" alt="Email: mayankyenugwar1@gmail.com" width="100%" style="max-width: 350px; border-radius: 8px;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
 
-  <img src="assets/gotham-skyline-footer.gif" alt="Skyline Silhouette" width="100%" />
+  <img src="assets/gotham-skyline-footer.gif" alt="Gotham Skyline Silhouette" width="100%" style="border-radius: 6px;" />
 
   <br/><br/>
 
