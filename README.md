@@ -28,7 +28,7 @@
 
 Engineering student exploring **artificial intelligence**, **software development**, and **creative technology**.
 
-Currently building projects that turn ideas into experiences — balancing disciplined systems architecture with atmospheric, tactile digital design.
+Currently building AI systems, software products, and interactive experiences — from productivity tools to immersive digital environments.
 
 <br/>
 
@@ -40,7 +40,7 @@ Currently building projects that turn ideas into experiences — balancing disci
 
 * **[TITAN V1.0](https://github.com/mayankyenugwar1/TITAN)** — Architecting an autonomous productivity operating system connecting Mission Control, Chrono Matrix, Knowledge OS (Second Brain), Projects &amp; OKRs, and an AI Commander Agent into one command center.
 * **[EXHALE](https://github.com/mayankyenugwar1/EXHALE)** — Refining a deep-space mindfulness experience combining generative cosmic aesthetics with psychological decompression.
-* **Intelligent Tooling** — Exploring low-latency local model orchestration, agentic workflows, and contextual state systems.
+* **[Paranoia](https://github.com/mayankyenugwar1/Paranoia)** — Developing an interactive entertainment platform exploring real-time game mechanics and state orchestration.
 
 <br/>
 
@@ -50,30 +50,36 @@ Currently building projects that turn ideas into experiences — balancing disci
 
 ## 03 // FEATURED PROJECTS
 
-### ⚔️ [TITAN V1.0](https://github.com/mayankyenugwar1/TITAN) — Autonomous Productivity OS
-> A unified tactical workspace connecting Mission Control, Chrono Matrix, Knowledge OS, Projects &amp; OKRs, and an AI Commander Agent into one command center.
+### 01 // TITAN V1.0
+**AUTONOMOUS PRODUCTIVITY OS**
+
+A unified tactical workspace connecting Mission Control, Chrono Matrix, Knowledge OS (Second Brain), Projects &amp; OKRs, and an AI Commander Agent into one command center.
 
 `React 19` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `Tailwind CSS v4` &nbsp;•&nbsp; `Supabase` &nbsp;•&nbsp; `Zustand`
 
-[**Explore Repository →**](https://github.com/mayankyenugwar1/TITAN)
+[**View Repository →**](https://github.com/mayankyenugwar1/TITAN)
 
 <br/>
 
-### 🌌 [EXHALE](https://github.com/mayankyenugwar1/EXHALE) — Deep-Space Perspective & Mindfulness
-> A minimalist cosmic experience creating psychological distance from overwhelming thoughts through reflective writing, guided breathing, and atmospheric pacing.
+### 02 // EXHALE
+**COSMIC MINDFULNESS EXPERIENCE**
+
+A minimalist cosmic web experience creating psychological distance from overwhelming thoughts through reflective writing, guided breathing, and atmospheric pacing.
 
 `React` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `Framer Motion` &nbsp;•&nbsp; `Tailwind CSS` &nbsp;•&nbsp; `Netlify`
 
-[**Explore Repository →**](https://github.com/mayankyenugwar1/EXHALE) &nbsp;|&nbsp; [**Live Demo ↗**](https://exhale-cosmic.netlify.app)
+[**View Repository →**](https://github.com/mayankyenugwar1/EXHALE) &nbsp;|&nbsp; [**Live Demo ↗**](https://exhale-cosmic.netlify.app)
 
 <br/>
 
-### 🕹️ [Paranoia](https://github.com/mayankyenugwar1/Paranoia) — Interactive Entertainment Platform
-> An interactive gaming environment exploring responsive audio-visual feedback and real-time state orchestration.
+### 03 // PARANOIA
+**INTERACTIVE GAMING PLATFORM**
 
-`JavaScript` &nbsp;•&nbsp; `Canvas` &nbsp;•&nbsp; `Interactive Systems`
+An interactive gaming environment exploring responsive audio-visual feedback and real-time state orchestration.
 
-[**Explore Repository →**](https://github.com/mayankyenugwar1/Paranoia)
+`JavaScript` &nbsp;•&nbsp; `HTML5 Canvas` &nbsp;•&nbsp; `Game Architecture`
+
+[**View Repository →**](https://github.com/mayankyenugwar1/Paranoia)
 
 <br/>
 
@@ -84,13 +90,16 @@ Currently building projects that turn ideas into experiences — balancing disci
 ## 04 // TECH STACK
 
 **Languages**  
-`TypeScript` &nbsp; `JavaScript` &nbsp; `Python` &nbsp; `SQL` &nbsp; `HTML5` &nbsp; `CSS3`
+`TypeScript` &nbsp;•&nbsp; `JavaScript` &nbsp;•&nbsp; `Python` &nbsp;•&nbsp; `C++`
 
-**Frameworks &amp; Libraries**  
-`React 19` &nbsp; `Tailwind CSS v4` &nbsp; `Framer Motion` &nbsp; `TanStack Query` &nbsp; `Radix UI` &nbsp; `Zustand` &nbsp; `Recharts`
+**Frontend**  
+`React` &nbsp;•&nbsp; `Vite` &nbsp;•&nbsp; `Tailwind CSS` &nbsp;•&nbsp; `Framer Motion`
 
-**Infrastructure &amp; Tooling**  
-`Supabase` &nbsp; `Docker` &nbsp; `Vite` &nbsp; `Capacitor` &nbsp; `Vercel` &nbsp; `Netlify` &nbsp; `Git`
+**Backend / Data**  
+`Supabase` &nbsp;•&nbsp; `FastAPI`
+
+**Tools**  
+`Git` &nbsp;•&nbsp; `GitHub` &nbsp;•&nbsp; `Netlify` &nbsp;•&nbsp; `Capacitor`
 
 <br/>
 
@@ -100,12 +109,13 @@ Currently building projects that turn ideas into experiences — balancing disci
 
 ## 05 // GITHUB ACTIVITY
 
+Building in public.  
+Learning by shipping.
+
+<br/>
+
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankyenugwar1&show_icons=true&bg_color=050814&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&border_color=1e293b&hide_rank=false" alt="Mayank's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankyenugwar1&layout=compact&bg_color=050814&title_color=38bdf8&text_color=94a3b8&border_color=1e293b" alt="Top Languages" />
-
+  <img src="https://ghchart.rshah.org/38bdf8/mayankyenugwar1" alt="Mayank Yenugwar's Contribution Graph" width="100%" style="border-radius: 6px;" />
 </div>
 
 <br/>
