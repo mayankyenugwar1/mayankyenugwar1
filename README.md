@@ -2,19 +2,32 @@
 
   <img src="assets/gotham-hero.gif" alt="MAYANK YENUGWAR // Engineering Student" width="100%" style="border-radius: 8px; border: 1px solid #1e293b;" />
 
-  <br/><br/>
+</div>
 
-  <p align="center">
-    <a href="https://github.com/mayankyenugwar1">
-      <img src="https://img.shields.io/badge/GitHub-mayankyenugwar1-080e1a?style=flat-square&logo=github&logoColor=cbd5e1&labelColor=04060b&color=0d1527" alt="GitHub" height="20" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:mayankyenugwar1@gmail.com">
-      <img src="https://img.shields.io/badge/Contact-Email-080e1a?style=flat-square&logo=gmail&logoColor=cbd5e1&labelColor=04060b&color=0d1527" alt="Contact" height="20" />
-    </a>
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Focus-Engineering%20%26%20AI-080e1a?style=flat-square&logo=terminal&logoColor=38bdf8&labelColor=04060b&color=0d1527" alt="Focus" height="20" />
-  </p>
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="middle">
+      <sub><b>GITHUB</b></sub><br/>
+      <a href="https://github.com/mayankyenugwar1"><code>mayankyenugwar1</code></a>
+    </td>
+    <td width="33%" align="center" valign="middle">
+      <sub><b>EMAIL</b></sub><br/>
+      <a href="mailto:mayankyenugwar1@gmail.com"><code>mayankyenugwar1@gmail.com</code></a>
+    </td>
+    <td width="34%" align="center" valign="middle">
+      <sub><b>FOCUS</b></sub><br/>
+      <code>AI • Software • Creative Tech</code>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+> *"SOME PEOPLE SEE DARKNESS. I SEE A PLAYGROUND FOR IDEAS."*
 
 </div>
 
@@ -22,98 +35,197 @@
 
 ## 01 // ABOUT ME
 
-Engineering student exploring **artificial intelligence**, **software development**, and **creative technology**.
-
-Currently building AI systems, software products, and interactive experiences — from productivity tools to immersive digital environments.
+<table width="100%">
+  <tr>
+    <td width="62%" valign="top">
+      <p>
+        Engineering student exploring <b>artificial intelligence</b>, <b>software development</b>, and <b>creative technology</b>.
+      </p>
+      <p>
+        Currently building AI systems, software products, and interactive experiences — from productivity tools to immersive digital environments.
+      </p>
+      <p>
+        <sub><i>Operating with disciplined systems engineering, nocturnal architecture, and tactile digital craft.</i></sub>
+      </p>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="assets/about-gotham.jpg" alt="Gotham Rooftop Skyline" width="100%" style="border-radius: 6px; border: 1px solid #1e293b;" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ## 02 // CURRENTLY BUILDING
 
-* **[TITAN V1.0](https://github.com/mayankyenugwar1/TITAN)** — Architecting an autonomous productivity operating system connecting Mission Control, Chrono Matrix, Knowledge OS (Second Brain), Projects &amp; OKRs, and an AI Commander Agent into one command center.
-* **[EXHALE](https://github.com/mayankyenugwar1/EXHALE)** — Refining a deep-space mindfulness experience combining generative cosmic aesthetics with psychological decompression.
-* **[Paranoia](https://github.com/mayankyenugwar1/Paranoia)** — Developing an interactive entertainment platform exploring real-time game mechanics and state orchestration.
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>⚡ <a href="https://github.com/mayankyenugwar1/TITAN">TITAN V1.0</a></h4>
+      <p><b>Autonomous Productivity OS</b></p>
+      <p>Tactical workspace unifying Mission Control, Chrono Matrix, Knowledge OS, and an AI Commander Agent.</p>
+      <p><a href="https://github.com/mayankyenugwar1/TITAN"><code>View Repo →</code></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🌌 <a href="https://github.com/mayankyenugwar1/EXHALE">EXHALE</a></h4>
+      <p><b>Cosmic Mindfulness Experience</b></p>
+      <p>Deep-space mindfulness platform creating psychological decompression through cosmic visual pacing.</p>
+      <p><a href="https://github.com/mayankyenugwar1/EXHALE"><code>View Repo →</code></a></p>
+    </td>
+    <td width="34%" valign="top">
+      <h4>🕹️ <a href="https://github.com/mayankyenugwar1/Paranoia">PARANOIA</a></h4>
+      <p><b>Interactive Horror / Puzzle Game</b></p>
+      <p>Responsive gaming environment exploring state orchestration, atmospheric feedback, and game mechanics.</p>
+      <p><a href="https://github.com/mayankyenugwar1/Paranoia"><code>View Repo →</code></a></p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ## 03 // FEATURED PROJECTS
 
-### 01 // TITAN V1.0
-**AUTONOMOUS PRODUCTIVITY OS**
-
-A unified tactical workspace connecting Mission Control, Chrono Matrix, Knowledge OS (Second Brain), Projects &amp; OKRs, and an AI Commander Agent into one command center.
-
-`React 19` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `Tailwind CSS v4` &nbsp;•&nbsp; `Supabase` &nbsp;•&nbsp; `Zustand`
-
-[**View Repository →**](https://github.com/mayankyenugwar1/TITAN)
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <h3>01 // TITAN V1.0</h3>
+      <p><code>AUTONOMOUS PRODUCTIVITY OS</code></p>
+      <p>
+        A unified tactical workspace connecting Mission Control, Chrono Matrix, Knowledge OS (Second Brain), Projects &amp; OKRs, and an autonomous AI Commander Agent into one central command interface. Designed for disciplined execution and high cognitive throughput.
+      </p>
+      <p>
+        <b>Tech Stack:</b> <code>React 19</code> • <code>TypeScript</code> • <code>Tailwind CSS v4</code> • <code>Supabase</code> • <code>Zustand</code> • <code>Vite</code>
+      </p>
+      <p>
+        <a href="https://github.com/mayankyenugwar1/TITAN"><b>EXPLORE REPOSITORY →</b></a> &nbsp;|&nbsp; 
+        <a href="https://titan-productivity-os.vercel.app"><b>LIVE SYSTEM ↗</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-### 02 // EXHALE
-**COSMIC MINDFULNESS EXPERIENCE**
-
-A minimalist cosmic web experience creating psychological distance from overwhelming thoughts through reflective writing, guided breathing, and atmospheric pacing.
-
-`React` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `Framer Motion` &nbsp;•&nbsp; `Tailwind CSS` &nbsp;•&nbsp; `Netlify`
-
-[**View Repository →**](https://github.com/mayankyenugwar1/EXHALE) &nbsp;|&nbsp; [**Live Demo ↗**](https://exhale-cosmic.netlify.app)
-
-<br/>
-
-### 03 // PARANOIA
-**INTERACTIVE GAMING PLATFORM**
-
-An interactive gaming environment exploring responsive audio-visual feedback and real-time state orchestration.
-
-`JavaScript` &nbsp;•&nbsp; `HTML5 Canvas` &nbsp;•&nbsp; `Game Architecture`
-
-[**View Repository →**](https://github.com/mayankyenugwar1/Paranoia)
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>02 // EXHALE</h3>
+      <p><code>COSMIC MINDFULNESS EXPERIENCE</code></p>
+      <p>
+        A minimalist cosmic web experience creating psychological distance from overwhelming thoughts through reflective writing, guided breathing rhythms, and contemplative deep-space visuals.
+      </p>
+      <p>
+        <b>Tech Stack:</b> <code>React</code> • <code>TypeScript</code> • <code>Framer Motion</code> • <code>Tailwind CSS</code> • <code>Netlify</code>
+      </p>
+      <p>
+        <a href="https://github.com/mayankyenugwar1/EXHALE"><b>EXPLORE REPOSITORY →</b></a> &nbsp;|&nbsp; 
+        <a href="https://exhale-cosmic.netlify.app"><b>LIVE EXPERIENCE ↗</b></a>
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://exhale-cosmic.netlify.app">
+        <img src="assets/exhale-preview.jpg" alt="EXHALE Cosmic Mindfulness Portal" width="100%" style="border-radius: 6px; border: 1px solid #1e293b;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ## 04 // TECH STACK
 
-**Languages**  
-`TypeScript` &nbsp;•&nbsp; `JavaScript` &nbsp;•&nbsp; `Python` &nbsp;•&nbsp; `C++`
-
-**Frontend**  
-`React` &nbsp;•&nbsp; `Vite` &nbsp;•&nbsp; `Tailwind CSS` &nbsp;•&nbsp; `Framer Motion`
-
-**Backend / Data**  
-`Supabase` &nbsp;•&nbsp; `FastAPI`
-
-**Tools**  
-`Git` &nbsp;•&nbsp; `GitHub` &nbsp;•&nbsp; `Netlify` &nbsp;•&nbsp; `Capacitor`
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top">
+      <h4>LANGUAGES</h4>
+      <p>
+        • <code>TypeScript</code><br/>
+        • <code>JavaScript</code><br/>
+        • <code>Python</code><br/>
+        • <code>C++</code>
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h4>FRONTEND</h4>
+      <p>
+        • <code>React</code><br/>
+        • <code>Vite</code><br/>
+        • <code>Tailwind CSS</code><br/>
+        • <code>Framer Motion</code>
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h4>BACKEND / DATA</h4>
+      <p>
+        • <code>Supabase</code><br/>
+        • <code>FastAPI</code>
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h4>TOOLS</h4>
+      <p>
+        • <code>Git</code><br/>
+        • <code>GitHub</code><br/>
+        • <code>Netlify</code><br/>
+        • <code>Capacitor</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ## 05 // GITHUB ACTIVITY
 
-Building in public.  
-Learning by shipping.
+> **BUILDING IN PUBLIC.**  
+> **LEARNING BY SHIPPING.**
 
 <br/>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/38bdf8/mayankyenugwar1" alt="Mayank Yenugwar's Contribution Graph" width="100%" style="border-radius: 6px;" />
+  <img src="https://ghchart.rshah.org/38bdf8/mayankyenugwar1" alt="Mayank Yenugwar's Contribution Graph" width="100%" style="border-radius: 6px; border: 1px solid #1e293b;" />
 </div>
 
 <br/>
 
 ## 06 // CONTACT
 
-Feel free to connect, collaborate, or discuss projects:
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <sub><b>GITHUB PROFILE</b></sub><br/>
+      <a href="https://github.com/mayankyenugwar1"><code>github.com/mayankyenugwar1</code></a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <sub><b>DIRECT EMAIL</b></sub><br/>
+      <a href="mailto:mayankyenugwar1@gmail.com"><code>mayankyenugwar1@gmail.com</code></a>
+    </td>
+  </tr>
+</table>
 
-* **GitHub**: [@mayankyenugwar1](https://github.com/mayankyenugwar1)
-* **Email**: [mayankyenugwar1@gmail.com](mailto:mayankyenugwar1@gmail.com)
+<br/>
+
+<div align="center">
+  <p><sub><i>Open to collaborating on high-impact software, autonomous agent architectures, and creative technology.</i></sub></p>
+</div>
 
 <br/>
 
 ---
 
+<br/>
+
 <div align="center">
+
+  <img src="assets/gotham-skyline-footer.png" alt="Gotham Skyline Silhouette" width="100%" />
+
+  <br/><br/>
+
   <p>
-    <i>"Where ideas meet the night."</i>
+    <b>GOOD CODE.</b><br/>
+    <b>BRIGHTER TOMORROWS.</b>
   </p>
-  <sub>© 2026 Mayank Yenugwar • Built in the dark</sub>
+
+  <sub>— MAYANK YENUGWAR</sub>
+
 </div>
